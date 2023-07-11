@@ -1,0 +1,8 @@
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\bin\Debug\capp3.exe.config
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\bin\Debug\capp3.exe
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\bin\Debug\capp3.pdb
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\obj\Debug\capp3.csproj.AssemblyReference.cache
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\obj\Debug\capp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\obj\Debug\capp3.csproj.CoreCompileInputs.cache
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\obj\Debug\capp3.exe
+C:\Users\raish\source\repos\mphasis\exercise3\capp3\capp3\obj\Debug\capp3.pdb
